@@ -49,7 +49,7 @@
     "mime": "^2.3.1",
     "moment": "^2.22.2",
     "monet": "^0.8.10",
-    "parse": "2.0.2",
+    "parse": "6.1.1",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
     "unique-filename": "^1.1.0"
