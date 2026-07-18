@@ -37,7 +37,7 @@
     "@fingermenu/parse-server-common": "0.17.0",
     "@microbusiness/common-javascript": "^1.3.1",
     "@microbusiness/parse-server-common": "^1.4.4",
-    "adm-zip": "0.4.11",
+    "adm-zip": "0.6.0",
     "bluebird": "^3.5.2",
     "command-line-args": "^5.0.2",
     "csv-parse": "^3.0.0",
